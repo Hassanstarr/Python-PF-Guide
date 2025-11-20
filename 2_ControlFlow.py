@@ -59,3 +59,21 @@ while True:
     if condition_is_false:
         print("Condition failed, breaking loop")
         break
+
+# Using break
+print("\nFor loop with break (stop at 3):")
+for i in range(5):
+    if i == 3:
+        print(f"Breaking loop at i = {i}")
+        break  # exits the loop completely
+    print(i, end=" ")
+print()
+
+# Using continue
+print("\nFor loop with continue (skip 3):")
+for i in range(5):
+    if i == 3:
+        print(f"Skipping i = {i}")
+        continue  # skips current iteration
+    print(i, end=" ")
+print()

@@ -26,3 +26,30 @@ It includes clear topic explanations, commented code examples, and practice prob
 - Common string methods  
 - Looping over strings  
 - String manipulation practice
+
+### **4. Functions**
+- Creating functions  
+- Parameters & return values  
+- Default arguments  
+- Variable scope
+
+### **5. Lists & Tuples**
+- Indexing & slicing  
+- Updating items  
+- Useful methods (`append`, `remove`, etc.)  
+- Nested lists  
+- Iteration patterns
+
+### **6. Dictionaries & Sets**
+- Key–value pairs  
+- Adding, updating, deleting entries  
+- Looping through dictionaries  
+- Set operations
+
+### **7. References (Pointer-like behavior in Python)**
+- How Python handles variables  
+- Mutable vs immutable types  
+- Reference sharing examples
+
+### **8. Mini Projects**
+- Basic calculator  
